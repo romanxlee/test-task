@@ -1,0 +1,9 @@
+.scroll {
+    position: absolute;
+    width: 4px;
+    height: 96px;
+    right: 2px;
+    top: 48px;
+    background: #364D59;
+    border-radius: 50px;
+}

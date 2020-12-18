@@ -1,0 +1,12 @@
+.additional__time {
+    margin: 0;
+    max-width: 37px;
+    font-family: Alegreya Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #738C99;
+}

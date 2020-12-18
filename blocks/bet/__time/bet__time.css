@@ -1,0 +1,13 @@
+.bet__time {
+    max-width: 37px;
+    margin: 0;
+    font-family: Alegreya Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #738C99;
+}

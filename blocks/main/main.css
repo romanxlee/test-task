@@ -1,0 +1,7 @@
+@import './__title/main__title.css';
+
+.main {
+    margin: 0 auto;
+    padding-top: 32px;
+    background: #192A33;
+}

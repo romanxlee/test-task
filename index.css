@@ -1,0 +1,18 @@
+@import './blocks/main/main.css';
+@import './blocks/container/container.css';
+@import './blocks/bet/bet.css';
+@import './blocks/free-kick/free-kick.css';
+@import './blocks/goal/goal.css';
+@import './blocks/offside/offside.css';
+@import './blocks/goal-kick/goal-kick.css';
+@import './blocks/corner-kick/corner-kick.css';
+@import './blocks/active/active.css';
+@import './blocks/additional/additional.css';
+@import './blocks/scroll/scroll.css';
+@import './fonts/fonts.css';
+
+body {
+    max-width: 264px;
+    margin: 0 auto;
+    position: relative;
+}

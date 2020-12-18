@@ -1,0 +1,5 @@
+.additional__bets {
+    width: 127px;
+    display: flex;
+    justify-content: space-between;
+}

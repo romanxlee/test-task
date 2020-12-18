@@ -1,0 +1,5 @@
+.bet__money {
+    max-width: 167px;
+    display: flex;
+    justify-content: space-between;
+}

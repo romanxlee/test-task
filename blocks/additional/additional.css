@@ -1,0 +1,10 @@
+@import './__line/additional__line.css';
+@import './__time/additional__time.css';
+@import './__bets/additional__bets.css';
+@import './__text/additional__text.css';
+
+.additional {
+    display: none;
+    flex-direction: column;
+    padding: 0 12px 7px;
+}

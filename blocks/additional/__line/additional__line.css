@@ -1,0 +1,6 @@
+.additional__line {
+
+    max-width: 248px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+}
